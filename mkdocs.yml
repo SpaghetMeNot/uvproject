@@ -1,0 +1,86 @@
+site_name: uvProject
+site_url: https://spaghetmenot.github.io/uvproject/
+
+nav:
+  - Home: index.md
+  - Install: install.md
+  - How to Use: using_autoConstraints.md
+  - Hotkeys: hotkeys.md
+  - Preferences: preferences.md
+
+theme:
+  name: material
+  font:
+    text: Roboto
+    code: Red Hat Mono
+  logo: assets\uvproject_banner_icon.png
+  favicon: assets\uvproject_banner_icon.png
+  features:
+    - navigation.tracking
+    - navigation.indexes
+    - navigation.sections
+    - toc.follow
+
+  palette:  
+  # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: black
+      accent: deep purple
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.keys
+
+extra:
+  social:
+    - icon: simple/bluesky
+      link: https://bsky.app/profile/spaghetmenot.bsky.social
+    - icon: simple/mastodon
+      link: https://mastodon.social/@SpaghetMeNot
+    - icon: simple/x
+      link: https://x.com/SpaghetMeN0t
+    - icon: simple/youtube
+      link: https://www.youtube.com/@SpaghetMeNot
+
+plugins:
+  - search
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      slide_effect: slide
+      width: auto
+      height: auto
+      zoomable: true
+      draggable: true
+      auto_caption: false
+      caption_position: bottom
+      background: black
+      shadow: true
+      manual: false
