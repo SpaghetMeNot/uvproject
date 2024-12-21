@@ -1,0 +1,1 @@
+![](assets/methods_compare.gif)

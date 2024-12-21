@@ -1,12 +1,11 @@
 # Install uvProject
 uvProject is installed as an asset library in Blender.
 
-!!! warning "Blender 4.1+ Recommended (Blender 4.0+ Required)"
+Tldr: download the zip, extract the folder, and add the folder as an asset library. For more detailed instructions see [below](#install-asset-library).
 
 !!! info "For more information on asset libraries you can check Blender's [Official Documentation](https://docs.blender.org/manual/en/dev/files/asset_libraries/introduction.html#introduction)"
 
 ## Install Asset Library
-
 
 1. Download latest .zip file for the closest Blender version. (e.g. for Blender 4.1 use "4_1_xxxx.zip")
 2. Unzip/extract folder to your desired location

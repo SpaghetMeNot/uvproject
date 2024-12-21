@@ -1,5 +1,5 @@
 # uvProject Home
-Welcome to the uvProject documenttion, here you'll find everything there is to know about the tools
+Welcome to the uvProject documenttion, here you'll find everything there is to know about the tools.
 <div class="grid cards" markdown>
 
 - [:octicons-download-16: Install uvProject](install.md)
@@ -7,17 +7,19 @@ Welcome to the uvProject documenttion, here you'll find everything there is to k
 
 </div>
 
+
+
 If something isn't clear or is missing please reach out!    
 :material-email: <spaghetmenot@gmail.com>   
 :fontawesome-brands-bluesky: [@spaghetmenot.bsky.social](https://bsky.app/profile/spaghetmenot.bsky.social)  
 :fontawesome-brands-mastodon: [@SpaghetMeNot@mastodon.social](https://mastodon.social/@SpaghetMeNot)
+
 
 ## What is uvProject?
 
 uvProject is a set of tools designed to eliminate many tedious unwrapping tasks. It many cases it allows you to model freely while UVs appear before your eyes.
 
 ![](assets/all_tools.png)
-![](assets/modeling_short.gif)
 ### Main Features:
 
 1. Oriented UVs. UVs are aligned with object's up axis by default. Ideal for directional textures e.g. bricks, tiles, wood, leaks etc.
@@ -29,7 +31,8 @@ uvProject is a set of tools designed to eliminate many tedious unwrapping tasks.
 
 ----
 ## Where can I get uvProject?
+!!! warning "Blender 4.1+ Recommended (Blender 4.0+ Required)"
 uvProject is available on Gumroad and will be released on Blender Market for version 1.0
 <div class="grid cards" markdown>
-- [:simple-gumroad: Gumroad](https://spaghetmenot.gumroad.com/l/autoconstraintsfree)   
+- [:simple-gumroad: Gumroad](https://spaghetmenot.gumroad.com/l/uvproject)   
 </div>
