@@ -4,7 +4,7 @@ site_url: https://spaghetmenot.github.io/uvproject/
 nav:
   - Home: index.md
   - Install: install.md
-  - How to Use: using_autoConstraints.md
+  - How to Use: how_to_use.md
   - Projection Methods: projection_methods.md
   - Examples: examples.md
 

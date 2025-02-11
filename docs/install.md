@@ -16,13 +16,13 @@ Tldr: download the zip, extract the folder, and add the folder as an asset libra
 
 After Restarting Blender you should have access to the uvProject tools:
 
-1. With an mesh selected in the 'Add Modifier' Menu
-2. in the Edit Mesh 'UV' Menu
-3. Geometry Nodes Add Node menu under 'UV'
+1. With a mesh selected in the 'Add Modifier' Menu
+2. In the Edit Mesh 'UV' Menu
+3. In the Geometry Nodes Add Node menu under 'UV'
 
 ## Alternative Catalog
 By default, the assets are organized into generic categories to make using them feel more native within Blender. 
 
 I've included an alternate catalog that groups everything under a "SpaghetMeNot" catalog to keep all my nodes together. This may be preferable if you have lots of node asset libraries. 
 
-To use this simply replace blender_assets.cats.txt with the version found inside the Grouped SpaghetMeNot Catalog Folder:
+To use this, simply replace blender_assets.cats.txt with the version found inside the Grouped SpaghetMeNot Catalog Folder:

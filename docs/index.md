@@ -1,9 +1,17 @@
 # uvProject Home
+!!! warning "Documentation not complete!"
+    This documentation is WIP
+    
+    Estimated completion for uvProject 1.0 around April/May 2025
+
+    Please reach out if you get stuck with anything in the meantime!
+
+
 Welcome to the uvProject documenttion, here you'll find everything there is to know about the tools.
 <div class="grid cards" markdown>
 
 - [:octicons-download-16: Install uvProject](install.md)
-- [:material-run: How to Use](using_autoconstraints.md)
+- [:material-run: How to Use](how_to_use.md)
 
 </div>
 
@@ -17,7 +25,7 @@ If something isn't clear or is missing please reach out!
 
 ## What is uvProject?
 
-uvProject is a set of tools designed to eliminate many tedious unwrapping tasks. It many cases it allows you to model freely while UVs appear before your eyes.
+uvProject is a set of tools designed to eliminate many tedious unwrapping tasks. In many cases it allows you to model freely while UVs appear before your eyes.
 
 ![](assets/all_tools.png)
 ### Main Features:
